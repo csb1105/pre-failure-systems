@@ -40,6 +40,16 @@ The effectiveness of intervention is determined more by timing than by effort. A
 
 Recovery is not determined solely by the quality of an intervention. It depends on whether the system remains within a region of the state space where intervention can still propagate. As recovery margins shrink, identical corrective actions produce progressively smaller effects until recovery is no longer achievable.
 
+## Figure 5. The State Space of Pre-Failure
+
+![State Space of Pre-Failure](docs/visualizations/pre-failure-systems-state-space.png)
+
+**Figure 5.** This visualization represents organizational behavior as movement through a constrained operational state space. Rather than viewing failure as a single event, the model treats deterioration as a trajectory through regions of decreasing resilience and increasing constraint. Recovery depends on maintaining sufficient maneuver within the state space before irreversible boundaries are crossed. The figure illustrates how drift, resource depletion, environmental pressure, and declining coherence reshape the set of states that remain operationally reachable.
+
+### Key Insight
+
+Failure is not determined by where a system starts, but by the trajectory it follows through its operational state space. Preserving maneuver means keeping the system within regions where meaningful recovery remains reachable.
+
 # Core Principle
 
 Pre-Failure Systems investigates the conditions that emerge before visible failure.
