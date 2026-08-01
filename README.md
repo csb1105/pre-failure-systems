@@ -18,6 +18,12 @@
 
 **Figure 3.** This visualization illustrates how the opportunity for successful intervention contracts as system instability accumulates. Rather than treating failure as a discrete event, the model emphasizes that recovery depends on acting before correction capacity falls below operational demand. The figure highlights the relationship between drift accumulation, shrinking intervention windows, recovery boundaries, and irreversible failure, demonstrating that preserving time for corrective action is often more valuable than maximizing corrective force.
 
+## Figure 4. The Recovery Landscape
+
+![Recovery Landscape](docs/visualizations/pre-failure-systems-recovery-landscape.png)
+
+**Figure 4.** This visualization illustrates that recovery is a function of system position rather than effort alone. As instability, environmental pressure, and accumulated drift increase, the recovery landscape shifts from broad, stable regions toward increasingly constrained recovery margins and eventual failure basins. The model emphasizes that intervention success depends on preserving favorable system states before recovery becomes operationally impossible.
+
 Pre-Failure Systems is a research initiative focused on understanding how complex systems deteriorate before failure becomes operationally visible.
 
 Rather than detecting failure after it occurs, this project investigates measurable indicators that emerge earlier, including drift accumulation, declining correction capacity, shrinking intervention windows, and approaching recovery boundaries.
