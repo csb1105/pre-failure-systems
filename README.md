@@ -2,7 +2,17 @@
 
 ## Modeling Drift Before Failure Becomes Visible
 
-![Pre-Failure Systems](./docs/visualizations/pre-failure-systems-overview.png)
+## Figure 1. Pre-Failure Systems Overview
+
+![Pre-Failure Systems Overview](./docs/visualizations/pre-failure-systems-overview.png)
+
+**Figure 1.** Conceptual overview of the Pre-Failure Systems framework. Rather than treating failure as a discrete event, the model represents failure as the cumulative result of increasing drift, declining correction capacity, shrinking intervention opportunities, and diminishing recovery margins. The visualization illustrates the progression from stable operation through drift accumulation, intervention, recovery boundaries, and ultimately irreversible failure, while highlighting the decision variables and feedback mechanisms required to preserve operational stability.
+
+## Drift vs. Correction Capacity
+
+![Drift vs. Correction Capacity](./docs/visualizations/pre-failure-systems-drift-vs-correction-capacity.png)
+
+**Figure 2.** Drift accumulates while correction capacity declines. The system remains stable until drift exceeds the available capacity to correct deviations. The point where the curves intersect marks the stability threshold, after which intervention becomes increasingly difficult and operational failure becomes progressively more likely.
 
 Pre-Failure Systems is a research initiative focused on understanding how complex systems deteriorate before failure becomes operationally visible.
 
