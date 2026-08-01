@@ -12,6 +12,12 @@
 
 **Figure 2.** Drift accumulates while correction capacity declines. The system remains stable until drift exceeds the available capacity to correct deviations. The point where the curves intersect marks the stability threshold, after which intervention becomes increasingly difficult and operational failure becomes progressively more likely.
 
+## Figure 3. The Intervention Window
+
+![Intervention Window](docs/visualizations/pre-failure-systems-intervention-window.png)
+
+This visualization illustrates how the opportunity for successful intervention contracts as system instability accumulates. Rather than treating failure as a discrete event, the model emphasizes that recovery depends on acting before correction capacity falls below operational demand. The figure highlights the relationship between drift accumulation, shrinking intervention windows, recovery boundaries, and irreversible failure, demonstrating that preserving time for corrective action is often more valuable than maximizing corrective force.
+
 Pre-Failure Systems is a research initiative focused on understanding how complex systems deteriorate before failure becomes operationally visible.
 
 Rather than detecting failure after it occurs, this project investigates measurable indicators that emerge earlier, including drift accumulation, declining correction capacity, shrinking intervention windows, and approaching recovery boundaries.
