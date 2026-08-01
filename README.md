@@ -6,11 +6,19 @@
 
 **Figure 1.** Conceptual overview of the Pre-Failure Systems framework. Rather than treating failure as a discrete event, the model represents failure as the cumulative result of increasing drift, declining correction capacity, shrinking intervention opportunities, and diminishing recovery margins. The visualization illustrates the progression from stable operation through drift accumulation, intervention, recovery boundaries, and ultimately irreversible failure, while highlighting the decision variables and feedback mechanisms required to preserve operational stability.
 
+### Key Insight
+
+Failure is rarely sudden. It emerges from measurable changes in system behavior long before breakdown becomes visible. By identifying pre-failure conditions, organizations gain the opportunity to intervene while meaningful recovery remains possible.
+
 ## Figure 2. Drift vs. Correction Capacity
 
 ![Drift vs. Correction Capacity](./docs/visualizations/pre-failure-systems-drift-vs-correction-capacity.png)
 
 **Figure 2.** Drift accumulates while correction capacity declines. The system remains stable until drift exceeds the available capacity to correct deviations. The point where the curves intersect marks the stability threshold, after which intervention becomes increasingly difficult and operational failure becomes progressively more likely.
+
+### Key Insight
+
+System stability depends on the balance between accumulating drift and available correction capacity. Failure begins not when drift appears, but when correction capacity can no longer keep pace with it.
 
 ## Figure 3. The Intervention Window
 
@@ -18,11 +26,19 @@
 
 **Figure 3.** This visualization illustrates how the opportunity for successful intervention contracts as system instability accumulates. Rather than treating failure as a discrete event, the model emphasizes that recovery depends on acting before correction capacity falls below operational demand. The figure highlights the relationship between drift accumulation, shrinking intervention windows, recovery boundaries, and irreversible failure, demonstrating that preserving time for corrective action is often more valuable than maximizing corrective force.
 
+### Key Insight
+
+The effectiveness of intervention is determined more by timing than by effort. As instability accumulates, the operational window for successful correction contracts until intervention becomes irrelevant regardless of available resources.
+
 ## Figure 4. The Recovery Landscape
 
 ![Recovery Landscape](docs/visualizations/pre-failure-systems-recovery-landscape.png)
 
 **Figure 4.** This visualization illustrates that recovery is a function of system position rather than effort alone. As instability, environmental pressure, and accumulated drift increase, the recovery landscape shifts from broad, stable regions toward increasingly constrained recovery margins and eventual failure basins. The model emphasizes that intervention success depends on preserving favorable system states before recovery becomes operationally impossible.
+
+### Key Insight
+
+Recovery is not determined solely by the quality of an intervention. It depends on whether the system remains within a region of the state space where intervention can still propagate. As recovery margins shrink, identical corrective actions produce progressively smaller effects until recovery is no longer achievable.
 
 Pre-Failure Systems is a research initiative focused on understanding how complex systems deteriorate before failure becomes operationally visible.
 
