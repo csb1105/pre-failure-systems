@@ -40,6 +40,20 @@ The effectiveness of intervention is determined more by timing than by effort. A
 
 Recovery is not determined solely by the quality of an intervention. It depends on whether the system remains within a region of the state space where intervention can still propagate. As recovery margins shrink, identical corrective actions produce progressively smaller effects until recovery is no longer achievable.
 
+# Core Principle
+
+Pre-Failure Systems investigates the conditions that emerge before visible failure.
+
+Rather than asking why systems collapse after the fact, this research asks why intervention opportunities disappear while recovery is still theoretically possible.
+
+The objective is to identify measurable indicators of instability early enough to preserve maneuver, support informed decision making, and enable intervention before failure becomes irreversible.
+
+Failure is not an event.
+
+It is the point where accumulated drift exceeds the system's remaining capacity to recover.
+
+--------------------------------
+
 Pre-Failure Systems is a research initiative focused on understanding how complex systems deteriorate before failure becomes operationally visible.
 
 Rather than detecting failure after it occurs, this project investigates measurable indicators that emerge earlier, including drift accumulation, declining correction capacity, shrinking intervention windows, and approaching recovery boundaries.
