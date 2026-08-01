@@ -66,6 +66,16 @@ Failure is not determined by where a system starts, but by the trajectory it fol
 
 Early warning systems should not optimize prediction alone. Their primary purpose is to preserve decision quality by identifying instability while meaningful intervention remains operationally achievable.
 
+## Figure 7. The Integrated Pre-Failure Systems Framework
+
+![Integrated Pre-Failure Systems Framework](docs/visualizations/pre-failure-systems-integrated-framework.png)
+
+**Figure 7.** This capstone visualization unifies the complete Pre-Failure Systems framework into a single operational architecture. It demonstrates how repository concepts including drift accumulation, correction capacity, intervention timing, recovery landscapes, operational state space, and early warning combine into a continuous decision-support process. Rather than treating these models as independent analyses, the framework illustrates how they function together to preserve maneuver, improve resilience, and support timely intervention before irreversible failure occurs.
+
+### Key Insight
+
+Pre-Failure Systems is not a collection of independent models. It is an integrated decision architecture designed to detect instability, preserve operational freedom, and support intervention while recovery remains achievable.
+
 # Core Principle
 
 Pre-Failure Systems investigates the conditions that emerge before visible failure.
