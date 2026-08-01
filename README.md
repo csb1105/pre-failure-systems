@@ -50,6 +50,16 @@ Recovery is not determined solely by the quality of an intervention. It depends 
 
 Failure is not determined by where a system starts, but by the trajectory it follows through its operational state space. Preserving maneuver means keeping the system within regions where meaningful recovery remains reachable.
 
+## Figure 6. The Pre-Failure Early Warning Framework
+
+![Pre-Failure Early Warning Framework](docs/visualizations/pre-failure-systems-early-warning-framework.png)
+
+**Figure 6.** This visualization integrates the complete pre-failure decision process into a single operational framework. It demonstrates how weak signals mature into actionable warnings, how multiple system indicators should be monitored simultaneously, and how decision-makers can translate early observations into timely intervention. The framework emphasizes that the value of early warning lies not in predicting failure, but in preserving the opportunity to change the system's trajectory before recovery options disappear.
+
+### Key Insight
+
+Early warning systems should not optimize prediction alone. Their primary purpose is to preserve decision quality by identifying instability while meaningful intervention remains operationally achievable.
+
 # Core Principle
 
 Pre-Failure Systems investigates the conditions that emerge before visible failure.
