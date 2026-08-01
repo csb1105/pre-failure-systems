@@ -2,8 +2,6 @@
 
 ## Modeling Drift Before Failure Becomes Visible
 
-## Figure 1. Pre-Failure Systems Overview
-
 ![Pre-Failure Systems Overview](./docs/visualizations/pre-failure-systems-overview.png)
 
 **Figure 1.** Conceptual overview of the Pre-Failure Systems framework. Rather than treating failure as a discrete event, the model represents failure as the cumulative result of increasing drift, declining correction capacity, shrinking intervention opportunities, and diminishing recovery margins. The visualization illustrates the progression from stable operation through drift accumulation, intervention, recovery boundaries, and ultimately irreversible failure, while highlighting the decision variables and feedback mechanisms required to preserve operational stability.
