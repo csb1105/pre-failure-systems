@@ -2,7 +2,7 @@
 
 ## Modeling Drift Before Failure Becomes Visible
 
-![Pre-Failure Systems](docs/pre-failure-systems-overview.png)
+![Pre-Failure Systems](./docs/visualizations/pre-failure-systems-overview.png)
 
 Pre-Failure Systems is a research initiative focused on understanding how complex systems deteriorate before failure becomes operationally visible.
 
