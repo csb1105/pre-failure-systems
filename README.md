@@ -1,5 +1,11 @@
 # Pre-Failure Systems
 
+# Visual Frameworks
+
+The following visualizations progressively develop the Pre-Failure Systems framework. Rather than illustrating isolated concepts, each figure builds upon the previous one to explain how instability emerges, how intervention opportunities evolve, and how decision-makers can preserve recovery before irreversible failure.
+
+The figures are intended to be read sequentially.
+
 ## Figure 1. Modeling Drift Before Failure Becomes Visible
 
 ![Pre-Failure Systems Overview](./docs/visualizations/pre-failure-systems-overview.png)
