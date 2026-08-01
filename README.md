@@ -2,43 +2,92 @@
 
 ## Modeling Drift Before Failure Becomes Visible
 
-Pre-Failure Systems is a research project exploring how instability develops before failure becomes operationally visible.
+![Pre-Failure Systems](docs/pre-failure-systems-overview.png)
 
-Most monitoring systems identify failure after performance has already degraded. This project investigates whether earlier indicators such as drift, declining correction capacity, increasing divergence, and shrinking intervention windows can support proactive intervention.
+Pre-Failure Systems is a research initiative focused on understanding how complex systems deteriorate before failure becomes operationally visible.
 
-The objective is to better understand the conditions that precede irreversible failure in complex systems.
+Rather than detecting failure after it occurs, this project investigates measurable indicators that emerge earlier, including drift accumulation, declining correction capacity, shrinking intervention windows, and approaching recovery boundaries.
 
-## Research Focus
+The objective is to support earlier intervention, improve operational resilience, and provide decision-makers with actionable insight before instability becomes irreversible.
+
+# Research Focus
 
 This repository explores:
 
 - Drift accumulation
-- Correction capacity
-- Recovery boundaries
+- System stability
 - Intervention timing
-- Decision support
-- Complex adaptive systems
+- Recovery boundary estimation
+- Correction capacity
+- Decision support under uncertainty
+- Pre-failure detection
+- Operational resilience
+- Human-AI decision support
 
-## Core Research Question
+# Repository Contents
 
-> When does recovery become impossible, even though the system still appears healthy?
+```
+docs/
+    pre-failure-systems-overview.png
 
-## Repository Contents
+models/
+    Candidate mathematical models
 
-This repository contains research notes, mathematical models, visualizations, and experimental tools related to pre-failure system behavior.
+examples/
+    Example operational scenarios
 
-Current areas of investigation include:
+papers/
+    Research notes and white papers
 
-- System drift
-- Stability modeling
-- Recovery geometry
-- Intervention analysis
-- Decision-support concepts
+notebooks/
+    Experiments and simulations
+```
 
-## Status
+# Core Research Questions
 
-This repository is under active development as an ongoing research project.
+- Can system failure be detected before degradation becomes visible?
+- Which variables provide the earliest indication of instability?
+- How can intervention opportunity be estimated quantitatively?
+- How should recovery boundaries be represented?
+- What conditions make failure operationally irreversible?
 
-> Failure is not an event.
->
-> It is the point where accumulated drift becomes irreversible.
+# Long-Term Goal
+
+Develop mathematical and computational methods that estimate:
+
+- System health
+- Drift velocity
+- Recovery margin
+- Intervention opportunity
+- Failure probability
+
+before irreversible failure occurs.
+
+# Applications
+
+Potential applications include:
+
+- AI assurance
+- Autonomous systems
+- Military command and control
+- Critical infrastructure
+- Industrial operations
+- Cybersecurity
+- Predictive maintenance
+- Enterprise risk monitoring
+
+# Author
+
+**Caroline Suzanne Brooks**
+
+AI Systems Engineer | AI Assurance | Decision Support | Operational Resilience
+
+GitHub: https://github.com/csb1105
+
+LinkedIn: https://linkedin.com/in/csb1105
+
+Website: https://www.carolinebrooks.org
+
+## Principle
+
+> **Failure is not an event. It is the point where accumulated drift becomes irreversible.**
